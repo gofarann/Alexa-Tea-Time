@@ -1,0 +1,37 @@
+WhiteTea make white tea
+WhiteTea steep white tea
+WhiteTea for white tea
+WhiteTea start white tea
+WhiteTea begin white tea
+
+GreenTea make green tea
+GreenTea steep green tea
+GreenTea for green tea
+GreenTea start green tea
+GreenTea begin green tea
+
+BlackTea make black tea
+BlackTea steep black tea
+BlackTea for black tea
+BlackTea start black tea
+BlackTea begin black tea
+BlackTea earl grey hot
+
+Tisane make tisane tea
+Tisane steep tisane tea
+Tisane for tisane tea
+Tisane start tisane tea
+Tisane begin tisane tea
+Tisane make herbal tea
+Tisane steep herbal tea
+Tisane for herbal tea
+Tisane start herbal tea
+Tisane begin herbal tea
+
+
+WAT coffee
+WAT espresso
+WAT joe
+WAT latte
+WAT cappuccino
+

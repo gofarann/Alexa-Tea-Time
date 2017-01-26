@@ -1,0 +1,22 @@
+{
+  "intents": [{
+      "intent": "WhiteTea"
+    }, {
+      "intent": "GreenTea"
+    }, {
+      "intent": "BlackTea"
+    }, {
+      "intent": "Tisane"
+    }, {
+      "intent": "AMAZON.PauseIntent"
+    }, {
+      "intent": "AMAZON.ResumeIntent"
+    }, {
+      "intent": "WAT"
+    }, {
+      "intent": "AMAZON.help"
+    }, {
+      "intent": "AMAZON.stop"
+    }
+  ]
+}
